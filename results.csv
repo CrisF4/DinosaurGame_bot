@@ -1,0 +1,3 @@
+method_name,run_number,survival_time_s,estimated_score,avg_fps,min_fps,max_fps,total_frames,total_jumps,total_ducks,total_no_action,avg_detection_latency_ms,total_detections
+pixel,1,46.71,467.14,49.63,21.05,58.75,2232,251,18,1963,0.34,1111
+contour,1,28.79,287.90,47.07,5.53,52.73,1309,204,3,1102,0.12,1582
